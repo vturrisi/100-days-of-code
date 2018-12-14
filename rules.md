@@ -6,11 +6,6 @@
 #### Start Date
 Jan 10th, 2019
 
-#### Participants
-
-- @vturrisi
-
-
 ## Additional Rules
 1. If I code at work, that time won't count towards the challenge.
 2. I will push code to GitHub every day so that anyone can see my progress.

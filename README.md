@@ -1,6 +1,8 @@
 # I've joined the #100DaysOfCode Challenge
 
-## Contents
+## Participants
+
+* [@vturrisi](https://github.com/vturrisi/)
 
 ## Contents
 * [Rules](rules.md)
