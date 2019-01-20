@@ -6,6 +6,7 @@
 * [@vitorbezerra](https://github.com/vitorbezerra)
 * [@JoaoProvin](https://github.com/JoaoProvin)
 * [@joaovkn](https://github.com/joaovkn/joaovkn)
+* [@silva-matheus](https://github.com/silva-matheus)
 
 ## Contents
 * [Rules](rules.md)
