@@ -1,10 +1,13 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+### *I will code for at least an hour for every working day for the next 100 (working) days.*
 
 #### Start Date
-Jan 10th, 2019
+Jan 21th, 2019
+
+#### End Date
+
 
 ## Additional Rules
 1. If I code at work, that time won't count towards the challenge.
