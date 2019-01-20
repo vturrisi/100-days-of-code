@@ -3,6 +3,9 @@
 ## Participants
 
 * [@vturrisi](https://github.com/vturrisi/)
+* [@vitorbezerra](https://github.com/vitorbezerra)
+* [@JoaoProvin](https://github.com/JoaoProvin)
+* [@joaovkn](https://github.com/joaovkn/joaovkn)
 
 ## Contents
 * [Rules](rules.md)
