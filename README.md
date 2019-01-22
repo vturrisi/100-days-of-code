@@ -25,7 +25,7 @@ If you want to help by providing a translation of content/rules in the language 
     Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) is a invite link to the 100DaysOfCode Slack channel
 1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 1.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-1.  **Code minimum an hour every day for the next 100 days.**
+1.  **Code minimum an hour every day for the next 100 days or something related to coding.** 
 1.  Change the date in [Rules](rules.md) to the day you've started the challenge.
 1.  Delete the examples in the log, or comment them out, and start filling it with your own content.
 1.  Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
