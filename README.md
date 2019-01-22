@@ -5,7 +5,7 @@
 * [@vturrisi](https://github.com/vturrisi/)
 * [@vitorbezerra](https://github.com/vitorbezerra)
 * [@JoaoProvin](https://github.com/JoaoProvin)
-* [@joaovkn](https://github.com/joaovkn/joaovkn)
+* [@joaovkn](https://github.com/joaovkn)
 * [@silva-matheus](https://github.com/silva-matheus)
 
 ## Contents
