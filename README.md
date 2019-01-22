@@ -7,6 +7,10 @@
 * [@JoaoProvin](https://github.com/JoaoProvin)
 * [@joaovkn](https://github.com/joaovkn)
 * [@silva-matheus](https://github.com/silva-matheus)
+* [@shigaki](https://github.com/shigaki)
+* [@jessicaboatto](https://github.com/jessicaboatto)
+
+
 
 ## Contents
 * [Rules](rules.md)
