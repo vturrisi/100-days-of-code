@@ -1,10 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**Link to work:**
+[project](https://github.com/vturrisi/pytorch-journey)
+
+### Day 1: Jan 22, 2018
 
 **Today's Progress**:
-
-**Thoughts:**
-
-**Link to work:**
+Created a base project to start learning pytorch
+Forward and backwardprop by 'hand' using pytorch
