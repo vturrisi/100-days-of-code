@@ -8,5 +8,6 @@
 **Today's Progress**:
 - Created a base project to start learning pytorch
 - Forward and backwardprop by 'hand' using pytorch
+
 **Info**:
 - Computed loss by hand so that pytorch can perform auto derivative
