@@ -6,5 +6,5 @@
 ### Day 1: Jan 22, 2018
 
 **Today's Progress**:
-Created a base project to start learning pytorch
-Forward and backwardprop by 'hand' using pytorch
+- Created a base project to start learning pytorch
+- Forward and backwardprop by 'hand' using pytorch
