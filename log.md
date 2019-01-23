@@ -11,3 +11,10 @@
 
 **Info**:
 - Computed loss by hand so that pytorch can perform auto derivative
+
+### Day 2: Jan 23, 2018
+
+**Today's Progress**:
+- Grads are now updating
+- Needs to fix loss function/optimiser (no grads...)
+
