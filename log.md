@@ -16,5 +16,10 @@
 
 **Today's Progress**:
 - Grads are now updating
-- Needs to fix loss function/optimiser (no grads...)
+- Needs to review update by hand
+
+- NN learns when using loss function
+- NLLLoss is just a negative in pytorch
+- Use CrossEntropyLoss without softmax in the last layer
+- Use NLLLoss with logsoftmax in last layer
 
