@@ -23,3 +23,8 @@
 - Use CrossEntropyLoss without softmax in the last layer
 - Use NLLLoss with logsoftmax in last layer
 
+### Day 3: Jan 24, 2018
+
+**Today's Progress**
+- Studied how pytorch uses Cpp code (torch/csrc)
+- Studied on how to use python with C/Cpp
