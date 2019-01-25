@@ -54,7 +54,8 @@
 - [torch._C](https://github.com/pytorch/pytorch/blob/master/torch/csrc/Module.cpp#L732-L742)
 
 **Extra Notes**:
-[Pytorch](https://pytorch.org/docs/master/nn.html#log-softmax) While mathematically equivalent to log(softmax(x)), doing these two operations separately is slower, and numerically unstable. This function uses an alternative formulation to compute the output and gradient correctly.
+- While mathematically equivalent to log(softmax(x)), doing these two operations separately is slower, and numerically unstable. This function uses an alternative formulation to compute the output and gradient correctly. [link](https://pytorch.org/docs/master/nn.html#log-softmax)
+- THNN is a library that gathers nn's C implementations of neural network modules. It's entirely free of Lua dependency and therefore can be used in any application that has a C FFI. Please note that it only contains quite low level functions; most users will want to use ATen, which provides a C++ wrapper around these functions. There is also a CUDA counterpart of THNN, THCUNN. [link](https://github.com/pytorch/pytorch/tree/517c7c98610402e2746586c78987c64c28e024aa/aten/src/THNN)
 
 ---
 
