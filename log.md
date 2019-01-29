@@ -59,3 +59,7 @@
 
 ---
 
+### Day 5: Jan 28, 2018
+- Computer broke down :(
+
+### Day 6: Jan 29, 2018
