@@ -62,9 +62,13 @@
 ### Day 5: Jan 28, 2018
 - Computer broke down :(
 
+---
+
 ### Day 6: Jan 29, 2018
 - Finished implementation by hand
 - Implemented log_softmax by hand (without division)
 - Implemented a simple CNN to test on mnist
 - Created a script to read and normalise csv data
 - Created two basic layers (one to Flatten the input for the last linear layer in the CNN and one to batchfy the input)
+
+---
