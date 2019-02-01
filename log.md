@@ -72,3 +72,10 @@
 - Created two basic layers (one to Flatten the input for the last linear layer in the CNN and one to batchfy the input)
 
 ---
+
+### Day 7: Jan 31, 2018 (didn't do anything in the 30th :()
+
+- Did something different today since some experiments were executing.
+- Contributed to my watchdog_man repo [link](https://github.com/vturrisi/watchdog_man)
+
+---
