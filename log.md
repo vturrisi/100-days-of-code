@@ -60,7 +60,7 @@
 ---
 
 ### Day 5: Jan 28, 2018
-- Computer broke down :(
+- Computer broke down :cry:
 
 ---
 
@@ -73,7 +73,7 @@
 
 ---
 
-### Day 7: Jan 31, 2018 (didn't do anything in the 30th :()
+### Day 7: Jan 31, 2018 (didn't do anything in the 30th :disappointed:)
 
 - Did something different today since some experiments were executing.
 - Contributed to my watchdog_man repo [link](https://github.com/vturrisi/watchdog_man)
