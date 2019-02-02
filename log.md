@@ -79,3 +79,8 @@
 - Contributed to my watchdog_man repo [link](https://github.com/vturrisi/watchdog_man)
 
 ---
+
+### Day 7: Feb 2, 2018 (didn't do anything in the 30th :disappointed:)
+
+- Studied about autoencoders and VAEs
+- Playing around with pytorch to create an autoencoder. Seeing the impact of different configurations.
