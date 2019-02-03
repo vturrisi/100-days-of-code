@@ -83,4 +83,6 @@
 ### Day 8: Feb 2, 2018 (didn't do anything in the 30th :disappointed:)
 
 - Studied about autoencoders and VAEs
-- Playing around with pytorch to create an autoencoder. Seeing the impact of different configurations.
+- Playing around with pytorch to create a denoising autoencoder. Seeing the impact of different configurations.
+- Studied BN and some loss functions
+- Testing gaussian noise x 'drop pixel' noise
