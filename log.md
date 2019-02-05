@@ -87,9 +87,16 @@
 - Studied BN and some loss functions
 - Testing gaussian noise x 'drop pixel' noise
 
+--- 
 
-### Day 9: Feb 3, 2018
+### Day 9: Feb 4, 2018
 
 - Tested the impact of a bigger autoencoder
 - Studied about dataloader (torch) and imagefolder (torchvision)
 - Created a custom dataloader
+
+---
+
+### Day 10: Feb 5, 2018
+
+- Going through pytorch nn documentation
