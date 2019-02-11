@@ -100,8 +100,17 @@
 ### Day 10: Feb 5, 2018
 
 - Going through pytorch nn documentation
+
 ---
 
 ### Day 11: Feb 8, 2018
 
+- Going through pytorch nn documentation
 - Some tests using convolutional layers + studied convolutional and transposedconv
+
+---
+
+### Day 12: Feb 1, 2018
+
+- Going through pytorch nn documentation
+- Studied global average pooling (GAP) and class activation maps (CAM)
