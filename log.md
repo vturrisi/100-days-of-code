@@ -100,3 +100,8 @@
 ### Day 10: Feb 5, 2018
 
 - Going through pytorch nn documentation
+---
+
+### Day 11: Feb 8, 2018
+
+- Some tests using convolutional layers + studied convolutional and transposedconv
